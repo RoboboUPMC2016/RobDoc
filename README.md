@@ -14,7 +14,7 @@ Cahier des charges : **AJOUTER LE LIEN**
 Réunion | Date | Ordre du jour | Compte-rendu
 --- | --- | --- | ---
 1 | 09/30/2016 - 13h00 | Aucun | [Compte-rendu n°1](https://docs.google.com/document/d/1x5L1qwzZes5eQOqI9R3ZUnK-Rgkx6PGk_MRQsCYOB8Q/)
-2 | 07/10/2016 - 16h30 | [Ordre du jour n°2](https://docs.google.com/document/d/1NKCY2AAiyORjNOzOzKgRtBL8uKOZpl-SlTE9yLUJWYg) | [Compte-rendu n°2]() : **A FAIRE**
+2 | 07/10/2016 - 16h30 | [Ordre du jour n°2](https://docs.google.com/document/d/1NKCY2AAiyORjNOzOzKgRtBL8uKOZpl-SlTE9yLUJWYg) | [Compte-rendu n°2](https://docs.google.com/document/d/1RyoliVpKSLcaUo5apcQTSocSocIl94G_-a5v_oD72Ik/edit)
 3 | ? | ? | ?
 
 
