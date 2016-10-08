@@ -8,8 +8,9 @@ Cette UE est encadrée par Stéphane Doncieux qui joue également le rôle du pr
 # Ordres du jour et comptes-rendus de réunion
 Réunion | Date | Ordre du jour | Compte-rendu
 --- | --- | --- | ---
-1 | 9/30/2016 - 13h00 | Aucun | https://docs.google.com/document/d/1x5L1qwzZes5eQOqI9R3ZUnK-Rgkx6PGk_MRQsCYOB8Q/
-2 | 07/10/2016 - 16h30 | https://docs.google.com/document/d/1NKCY2AAiyORjNOzOzKgRtBL8uKOZpl-SlTE9yLUJWYg | **A FAIRE**
+1 | 9/30/2016 - 13h00 | Aucun | [Compte-rendu n°1](https://docs.google.com/document/d/1x5L1qwzZes5eQOqI9R3ZUnK-Rgkx6PGk_MRQsCYOB8Q/)
+2 | 07/10/2016 - 16h30 | [Ordre du jour n°2](https://docs.google.com/document/d/1NKCY2AAiyORjNOzOzKgRtBL8uKOZpl-SlTE9yLUJWYg) | [Compte-rendu n°2]() : **A FAIRE**
+3 | ? | ? | ?
 
 # Membres de l'équipe
 Membre | Adresse email | Ordre Scrum Master (colonne inutile ?) | Période Scrum Master
