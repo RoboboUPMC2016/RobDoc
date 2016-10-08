@@ -37,4 +37,4 @@ Morvan Lassauzay | morvan.lassauzay@orange.fr | ? | ?
 Victor Nea | victor.nea@gmail.com | ? | ?
 Vincent	Trinquet | vincent.trinquet@etu.upmc.fr | ? | ?
 
-**Note** : le membre en gras indique la personne qui tient actuellement le rôle du Scrum Master
+**Note** : le membre en gras indique la personne qui tient actuellement le rôle du Scrum Master.
