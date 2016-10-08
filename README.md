@@ -1,7 +1,7 @@
 # RobDoc
 RobDoc contient l'ensemble des documents liés à la gestion de projet du projet Robobo (UPMC 2016-2017, UE GPSTL).
 <br>
-Cette UE est encadrée par Stéphane Doncieux qui joue également le rôle du product owner.
+Cette UE est encadrée par Stéphane Doncieux qui tient également le rôle du Product Owner.
 
 
 # Spécification et cahier des charges du projet
@@ -37,4 +37,4 @@ Morvan Lassauzay | morvan.lassauzay@orange.fr | ? | ?
 Victor Nea | victor.nea@gmail.com | ? | ?
 Vincent	Trinquet | vincent.trinquet@etu.upmc.fr | ? | ?
 
-**Note** : le membre en gras indique la personne qui joue le rôle du Scrum Master
+**Note** : le membre en gras indique la personne qui tient actuellement le rôle du Scrum Master
