@@ -34,7 +34,7 @@ Arthur Joanny | ar_joanny@hotmail.fr | ? | ?
 **Clément	George** | clementyj.george@gmail.com | 1 | 30/10/2016 - 09/10/2016
 Mehdi Rezgui | rizgui.mahdi@gmail.com | ? | ?
 Morvan Lassauzay | morvan.lassauzay@orange.fr | ? | ?
-Nicolas Fedy | nicolad.fedy@gmail.com | ? | ?
+Nicolas Fedy | nicolas.fedy@gmail.com | ? | ?
 Victor Nea | victor.nea@gmail.com | ? | ?
 Vincent	Trinquet | vincent.trinquet@etu.upmc.fr | ? | ?
 
