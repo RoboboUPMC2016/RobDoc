@@ -5,9 +5,9 @@ Cette UE est encadrée par Stéphane Doncieux qui tient également le rôle du P
 
 
 # Spécification et cahier des charges du projet
-Spécification : **AJOUTER LE LIEN**
+[Spécification](https://github.com/RoboboUPMC2016/RobDoc/blob/master/doc/ROBOBO_spec.pdf)
 <br>
-Cahier des charges : **AJOUTER LE LIEN**
+[Cahier des charges](https://github.com/RoboboUPMC2016/RobDoc/blob/master/doc/ProjetROBOBO.pdf)
 
 
 # Ordres du jour et comptes-rendus des réunions
