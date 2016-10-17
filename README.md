@@ -31,9 +31,8 @@ Membre | Adresse email | Ordre Scrum Master (colonne inutile ?) | Période Scrum
 --- | --- | --- | ---
 Amine Corchi | med.amine.006@gmail.com | ? | ?
 Arthur Joanny | ar_joanny@hotmail.fr | ? | ?
-**Clément	George** | clementyj.george@gmail.com | 1 | 30/09/2016 - 16/10/2016
-Mehdi Rezgui | rizgui.mahdi@gmail.com | ? | ?
-Morvan Lassauzay | morvan.lassauzay@orange.fr | ? | ?
+Clément	George | clementyj.george@gmail.com | 1 | 30/09 - 16/10
+**Morvan Lassauzay** | morvan.lassauzay@orange.fr | 2 | 17/10 - 30/10
 Nicolas Fedy | nicolas.fedy@gmail.com | ? | ?
 Victor Nea | victor.nea@gmail.com | ? | ?
 Vincent	Trinquet | vincent.trinquet@etu.upmc.fr | ? | ?
