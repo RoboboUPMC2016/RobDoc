@@ -15,7 +15,7 @@ Réunion | Date | Ordre du jour | Compte-rendu
 --- | --- | --- | ---
 1 | 09/30/2016 - 13h00 | Aucun | [Compte-rendu n°1](https://docs.google.com/document/d/1x5L1qwzZes5eQOqI9R3ZUnK-Rgkx6PGk_MRQsCYOB8Q/)
 2 | 07/10/2016 - 16h30 | [Ordre du jour n°2](https://docs.google.com/document/d/1NKCY2AAiyORjNOzOzKgRtBL8uKOZpl-SlTE9yLUJWYg) | [Compte-rendu n°2](https://docs.google.com/document/d/1RyoliVpKSLcaUo5apcQTSocSocIl94G_-a5v_oD72Ik/edit)
-3 | ? | ? | ?
+3 | 21/10/2016 - 17h00 | ? | ?
 
 
 # Liste des outils de communication
@@ -27,7 +27,7 @@ GitHub (pour partager le code source) : https://github.com/RoboboUPMC2016
 
 
 # Membres de l'équipe
-Membre | Adresse email | Ordre Scrum Master (colonne inutile ?) | Période Scrum Master
+Membre | Adresse email | Ordre Scrum Master | Période Scrum Master
 --- | --- | --- | ---
 Amine Corchi | med.amine.006@gmail.com | ? | ?
 Arthur Joanny | ar_joanny@hotmail.fr | ? | ?
