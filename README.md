@@ -11,13 +11,17 @@ Cette UE est encadrée par Stéphane Doncieux qui tient également le rôle du P
 <br>
 [Product backlog](https://docs.google.com/document/d/1gKovNvYJkMh_3up_WaN-EHa1cXPaRvHY8WihpHdsKvA/edit?usp=sharing)
 
+# Sprint backlog
+[Sprint 1](https://drive.google.com/file/d/0B4NUrW-C16MAVi1fUTEyTElLZm8/view?usp=sharing)
+<br>
+[Sprint 2](?)
 
 # Ordres du jour et comptes-rendus des réunions
 Réunion | Date | Ordre du jour | Compte-rendu
 --- | --- | --- | ---
 1 | 09/30/2016 - 13h00 | Aucun | [Compte-rendu n°1](https://docs.google.com/document/d/1x5L1qwzZes5eQOqI9R3ZUnK-Rgkx6PGk_MRQsCYOB8Q/)
 2 | 07/10/2016 - 16h30 | [Ordre du jour n°2](https://docs.google.com/document/d/1NKCY2AAiyORjNOzOzKgRtBL8uKOZpl-SlTE9yLUJWYg) | [Compte-rendu n°2](https://docs.google.com/document/d/1RyoliVpKSLcaUo5apcQTSocSocIl94G_-a5v_oD72Ik/edit)
-3 | 21/10/2016 - 17h00 | ? | ?
+3 | 21/10/2016 - 17h00 | [Ordre du jour n°3](https://docs.google.com/document/d/1xXbEqv0oBmWnFcWpf1xlVF49cy8hBgk9Vu1VpfaarcA/edit?usp=sharing) | ?
 
 
 # Liste des outils de communication
