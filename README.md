@@ -8,6 +8,8 @@ Cette UE est encadrée par Stéphane Doncieux qui tient également le rôle du P
 [Spécification](https://github.com/RoboboUPMC2016/RobDoc/blob/master/doc/ROBOBO_spec.pdf)
 <br>
 [Cahier des charges](https://github.com/RoboboUPMC2016/RobDoc/blob/master/doc/ProjetROBOBO.pdf)
+<br>
+[Product backlog](https://docs.google.com/document/d/1gKovNvYJkMh_3up_WaN-EHa1cXPaRvHY8WihpHdsKvA)
 
 
 # Ordres du jour et comptes-rendus des réunions
