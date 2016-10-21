@@ -33,7 +33,7 @@ GitHub (pour partager le code source) : https://github.com/RoboboUPMC2016
 
 
 # Membres de l'équipe
-Membre | Adresse email | Ordre Scrum Master | Période Scrum Master
+Membre | Adresse email | N° du Sprint | Période Scrum Master
 --- | --- | --- | ---
 Amine Corchi | med.amine.006@gmail.com | ? | ?
 Arthur Joanny | ar_joanny@hotmail.fr | ? | ?
