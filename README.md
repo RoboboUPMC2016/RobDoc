@@ -38,9 +38,9 @@ Membre | Adresse email | N° du Sprint | Période Scrum Master
 Amine Corchi | med.amine.006@gmail.com | ? | ?
 Arthur Joanny | ar_joanny@hotmail.fr | ? | ?
 Clément	George | clementyj.george@gmail.com | 1 | 30/09 - 16/10
-**Morvan Lassauzay** | morvan.lassauzay@orange.fr | 2 | 17/10 - 30/10
+Morvan Lassauzay | morvan.lassauzay@orange.fr | 2 | 17/10 - 30/10
 Nicolas Fedy | nicolas.fedy@gmail.com | ? | ?
-Victor Nea | victor.nea@gmail.com | ? | ?
+**Victor Nea** | victor.nea@gmail.com | 3 | 31/10 - 13/11
 Vincent	Trinquet | vincent.trinquet@etu.upmc.fr | ? | ?
 
 **Note** : le membre en gras indique la personne qui tient actuellement le rôle du Scrum Master.
