@@ -15,6 +15,8 @@ Cette UE est encadrée par Stéphane Doncieux qui tient également le rôle du P
 [Sprint 1](https://drive.google.com/file/d/0B4NUrW-C16MAVi1fUTEyTElLZm8/view?usp=sharing)
 <br>
 [Sprint 2](https://docs.google.com/document/d/1lAl1_UAhW1STISMrwOzCxQz4sbic0MbiP5zgDtZwteE/edit?usp=sharing)
+<br>
+[Sprint 3](https://docs.google.com/document/d/1wXmoiyJB2imHd8zQO3NqcDaFAJKzkllfAc2_hNXvibk)
 
 # Ordres du jour et comptes-rendus des réunions
 Réunion | Date | Ordre du jour | Compte-rendu
