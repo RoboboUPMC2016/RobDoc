@@ -26,7 +26,7 @@ Réunion | Date | Ordre du jour | Compte-rendu
 3 | 21/10/2016 - 17h00 | [Ordre du jour n°3](https://docs.google.com/document/d/1xXbEqv0oBmWnFcWpf1xlVF49cy8hBgk9Vu1VpfaarcA/edit?usp=sharing) |[Compte-rendu n°3](https://docs.google.com/document/d/1k7fw4ErLufR-gnpYDfewJHq-AmJHtW47oQQh_0dPDAg/edit?usp=sharing)
 4 | 03/11/2016 - 9h00 | [Ordre du jour n°4](https://docs.google.com/document/d/1KhwADCL5wTqWo5XEFJMDwZyw94AIjLuxdwOAfrrLg4o/edit) |[Compte-rendu n°4](https://docs.google.com/document/d/1ar84dcx4UjPRS3kPWimJrpV3N6Q78ulyOCuiHgVl5xc/edit?usp=sharing)
 5 | 18/11/2016 - 10h |[Ordre du jour n°5](https://docs.google.com/document/d/16PvJMznu4BT08uoAkW9snrV7F2pa4C4hctMp52j843g/edit?usp=sharing)|[Compte-rendu n°5](https://docs.google.com/document/d/1T62GcinwnimhVnoCYGmLSmNn7AbiU88UQACDDDcIgf4/edit)
-6 | 25/11/2016 - 10h |[Ordre du jour n°6]()|[Compte-rendu n°6]()
+6 | 25/11/2016 - 10h |[Ordre du jour n°6](https://docs.google.com/document/d/1zjcVngxMjwdOKyECjHD2BDRtsxjwN-7HO_IHTFng5-A/edit)|[Compte-rendu n°6]()
 
 
 # Liste des outils de communication
