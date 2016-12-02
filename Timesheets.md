@@ -2,7 +2,7 @@
 # Amine Corchi
 Tâches | Temps estimé | Temps réél
 --- | --- | ---
-RobHub: Mise en place d'un systeme d'authentification en Java annulé  | 6h | 7h
+RobHub: Mise en place d'un systeme d'authentification en Java annulé(Page d'authentification,Page d'accueil)  | 6h | 7h
 RobHub: Monté en compétence sur la technologie PHP  | 5h | 6h
 RobHub: Page de details de chaque comportement  | 6h | 7h
 RobHub: Architecture de la base de données  | 1h | 1h
@@ -13,7 +13,19 @@ Test | 2h | 3h
 # Arthur Joanny
 Tâches | Temps estimé | Temps réél
 --- | --- | ---
-Test | 2h | 3h
+RobApp :  Mise en place d'une base pour l'application | 2h | 4h
+RobApp : Explorateur de fichiers pour récupérer les comportements | 2h | 2h
+RobApp : Mise en place d'une barre de navigation | 2h | 3h
+RobApp : Exécution dynamique du code sur Android  | 3h | 6h
+RobApp : Génération de QRCode  pour partager des vidéos | 3h | 3h
+RobApp : Gestion des comportements (Lancement et Arrêt) | 3h | 3h
+RobApp : Implémentation dans l'application de RobDev v0.1 | 2h | 2h
+RobApp : Implémentation dans l'application de RobDev v0.2 | 2h | 4h
+RobDev : Implémentation de plusieurs de comportements (V0.1 / V0.2) | 2h | 2h 
+RobDev : Conception (Module Évènementiel) | 1h | 4h
+Gestion :  Tache Scrum Master ("Daily" Scrum, Sprint plannification, review, ....)  | 2h | 3h
+
+
 Test | 2h | 3h
 
 
@@ -36,11 +48,17 @@ Tâches | Temps estimé | Temps réél
 Test | 2h | 3h
 Test | 2h | 3h
 
+
 # Nicolas Fedy
 Tâches | Temps estimé | Temps réél
 --- | --- | ---
-Test | 2h | 3h
-Test | 2h | 3h
+RobDex:création du serveur et tests locaux  | 4h | 5h
+RobDex:Ajout compatibilité Windows | 1h30 | 1h
+RobDex:Adaptation traitement pour gérer sockets php | 1h30 | 1h30 
+RobDex: Modification des options pour améliorer modularité | 2h | 2h30 
+RobDex: Ajout pseudo-compatibilité java 8 | 2h | 2h30 
+RobDex: Augmentation progressive de la sécurité | 3h | 3h 
+
 
 # Victor Nea
 Tâches | Temps estimé | Temps réél
