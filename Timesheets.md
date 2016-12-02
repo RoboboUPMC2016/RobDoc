@@ -43,7 +43,7 @@ Gestion de projet/communication | 5h | 5h
 
 
 # Morvan Lassauzay
-Motif d'absence de la la fiche de temps : Maladie |
+Motif d'absence de la fiche de temps : Maladie |
 --- |
 
 # Nicolas Fedy
@@ -73,6 +73,10 @@ Gestion de projet/communication | 4h | 4h
 # Vincent Trinquet	
 Tâches | Temps estimé | Temps réél
 --- | --- | ---
-Test | 2h | 3h
-Test | 2h | 3h
+Bibliographie | 10h |10h
+Upload de vidéos | 20h | 20h
+Upload de vidéos côté client | 10h | 10h
+Upload de vidéos côté serveur | 10h | 10h
+Méthode Scrum, méthodologie | quelques heures | quelques heures
+
 
