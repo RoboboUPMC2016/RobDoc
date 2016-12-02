@@ -1,7 +1,7 @@
-# Amine Corchi
+# Clément George
 Tâches | Temps estimé | Temps réél
 --- | --- | ---
-Définition/spécification du projet | 2h | 25h
+Définition/spécification du projet | 2h | 2h
 RobDev: première version du framework | 2h | 2h
 RobDex: Compilation des comportoments | 2h | 2h
 RobDev: Exemples de comportements | 1h | 1h
