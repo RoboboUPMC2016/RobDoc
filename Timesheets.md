@@ -6,9 +6,9 @@ RobHub: Mise en place d'un systeme d'authentification en Java annulé(Page d'aut
 RobHub: Monté en compétence sur la technologie PHP  | 5h | 6h
 RobHub: Page de details de chaque comportement  | 6h | 7h
 RobHub: Architecture de la base de données  | 1h | 1h
-Gestion de projet/communication  | 5h | 5h
+Gestion :  Tache Scrum Master ("Daily" Scrum, Sprint plannification, review, ....)  | 5h | 5h
 
-Test | 2h | 3h
+
 
 # Arthur Joanny
 Tâches | Temps estimé | Temps réél
@@ -43,11 +43,8 @@ Gestion de projet/communication | 5h | 5h
 
 
 # Morvan Lassauzay
-Tâches | Temps estimé | Temps réél
---- | --- | ---
-Test | 2h | 3h
-Test | 2h | 3h
-
+Motif d'absence de la la fiche de temps : Maladie |
+--- |
 
 # Nicolas Fedy
 Tâches | Temps estimé | Temps réél
