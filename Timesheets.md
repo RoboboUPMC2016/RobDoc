@@ -3,7 +3,7 @@
 Tâches | Temps estimé | Temps réél
 --- | --- | ---
 RobHub: Mise en place d'un systeme d'authentification en java annulé  | 6h | 7h
-RobHub: Monté en competance sur la technologie  | 5h | 6h
+RobHub: Monté en competance sur la technologie PHP  | 5h | 6h
 RobHub: Page de details de chaque comportement  | 6h | 7h
 RobHub: Architecture de la base de données  | 1h | 1h
 Gestion de projet/communication  | 5h | 5h
