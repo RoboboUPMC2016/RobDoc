@@ -50,7 +50,7 @@ Membre | Adresse email | N° du Sprint | Période Scrum Master
 Arthur Joanny | ar_joanny@hotmail.fr | 4 | 14/11 - 27/11
 Clément	George | clementyj.george@gmail.com | 1 | 30/09 - 16/10
 Morvan Lassauzay | morvan.lassauzay@orange.fr | 2 | 17/10 - 30/10
-Nicolas Fedy | nicolas.fedy@gmail.com | ? | ?
+Nicolas Fedy | nicolas.fedy@gmail.com | 6 | 10/12 - ?
 Victor Nea | victor.nea@gmail.com | 3 | 31/10 - 13/11
 Vincent	Trinquet | vincent.trinquet@etu.upmc.fr | ? | ?
 
