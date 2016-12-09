@@ -39,8 +39,16 @@ Gestion de projet/communication | 5h | 5h
 
 
 # Morvan Lassauzay
-Motif d'absence de la fiche de temps : Maladie |
---- |
+Tâches | Temps estimé | Temps effectif
+--- | --- | ---
+Gestion : Définition du Product Backlog | 4h | 5h
+Gestion : Tâches Scrum Master Sprint 2 (définition, communication, review) | 3h | 4h
+RobDev : Participation à la définition des différentes versions | 3h | 4h
+RobApp : Test précis des différentes méthodes de déplacement | 1h | 2h
+RobApp : Système permettant d'enchaîner plusieurs primitives de déplacement | 2h | 3h
+RobApp : Comportement de test | 1h | 2h
+Absence Maladie : fin du Sprint 3 et Sprint 5
+
 
 
 # Nicolas Fedy
