@@ -47,11 +47,11 @@ GitHub (pour partager le code source) : https://github.com/RoboboUPMC2016
 # Membres de l'équipe
 Membre | Adresse email | N° du Sprint | Période Scrum Master
 --- | --- | --- | ---
-**Amine Corchi** | med.amine.006@gmail.com | 5 | 28/11 - 11/12
+Amine Corchi | med.amine.006@gmail.com | 5 | 28/11 - 11/12
 Arthur Joanny | ar_joanny@hotmail.fr | 4 | 14/11 - 27/11
 Clément	George | clementyj.george@gmail.com | 1 | 30/09 - 16/10
 Morvan Lassauzay | morvan.lassauzay@orange.fr | 2 | 17/10 - 30/10
-Nicolas Fedy | nicolas.fedy@gmail.com | 6 | 10/12 - ?
+**Nicolas Fedy** | nicolas.fedy@gmail.com | 6 | 10/12 - ?
 Victor Nea | victor.nea@gmail.com | 3 | 31/10 - 13/11
 Vincent	Trinquet | vincent.trinquet@etu.upmc.fr | ? | ?
 
