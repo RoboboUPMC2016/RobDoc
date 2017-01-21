@@ -62,3 +62,7 @@ Victor Nea | victor.nea@gmail.com | 3 | 31/10/16 - 13/11/16
 **Vincent	Trinquet** | vincent.trinquet@etu.upmc.fr | 7 | 02/01/17 - 15/01/17
 
 **Note** : le membre en gras indique la personne qui tient actuellement le rôle du Scrum Master.
+
+# Manuels
+
+ [Manuel du développeur : RobApp](https://github.com/RoboboUPMC2016/RobApp/wiki)
