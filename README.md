@@ -66,5 +66,6 @@ Victor Nea | victor.nea@gmail.com | 3 | 31/10/16 - 13/11/16
 # Manuels
 
  [Manuel du développeur : RobApp](https://github.com/RoboboUPMC2016/RobApp/wiki)
+ <br>
  [Manuel d'utilisateur  : RobHub](https://github.com/RoboboUPMC2016/RobApp/wiki/User-guide-of-RobHub)
  
