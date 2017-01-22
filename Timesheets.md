@@ -15,14 +15,15 @@ Gestion :  Tâches Scrum Master ("Daily" Scrum, Sprint plannification, review, .
 
 Tâches | Temps estimé | Temps effectif 
 --- | --- | ---
-RobApp : Connexion en bluetooth avec le robot | 1h | 3h
-RobApp : Système pour lancer un comportement dans un thread | 2h | 5h
+RobApp : Connexion en bluetooth avec le robot | 2h | 3h
+RobApp : Système pour lancer un comportement dans un thread | 3h | 5h
 RobApp : Système pour arrêter un comportement dans un thread | 2h | 3h
 RobApp : Explorateur de fichier pour importer un comportement | 3h | 6h
-RobApp : Importer un fichier de comportement dans l'application (copie dans les dossiers internes de l'application) | 2h | 2h
-RobApp : Exécution dynamique du code sur Android  | 3h | 12h
-RobApp : Implémentation dans l'application de RobDev v0.1 | 2h | 2h
+RobApp : Importer un fichier de comportement dans l'application (copie dans les dossiers internes de l'application) | 3h | 3h
+RobApp : Exécution dynamique du code sur Android  | 4h | 11h
+RobApp : Implémentation dans l'application de RobDev v0.1 | 4h | 4h
 RobDev : Implémentation de plusieurs de comportements (v0.1 / v0.2) | 3h | 3h 
+Total | 24h | 38h
 
 RobApp : Génération de QRCode  pour partager des vidéos | 3h | 3h
 RobApp : Ajoute du module de movement du robot
