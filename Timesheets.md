@@ -10,20 +10,27 @@ Gestion :  Tâches Scrum Master ("Daily" Scrum, Sprint plannification, review, .
 
 
 # Arthur Joanny
-Tâches | Temps estimé | Temps effectif
---- | --- | ---
-RobApp : Mise en place d'une base pour l'application | 2h | 4h
-RobApp : Explorateur de fichiers pour récupérer les comportements | 2h | 2h
-RobApp : Mise en place d'une barre de navigation | 2h | 3h
-RobApp : Exécution dynamique du code sur Android  | 3h | 6h
-RobApp : Génération de QRCode  pour partager des vidéos | 3h | 3h
-RobApp : Gestion des comportements (Lancement et Arrêt) | 3h | 3h
-RobApp : Implémentation dans l'application de RobDev v0.1 | 2h | 2h
-RobApp : Implémentation dans l'application de RobDev v0.2 | 2h | 4h
-RobDev : Implémentation de plusieurs de comportements (v0.1 / v0.2) | 2h | 2h 
-RobDev : Conception (Module Évènementiel) | 1h | 4h
-Gestion : Tâches Scrum Master ("Daily" Scrum, Sprint plannification, review, ...)  | 2h | 3h
 
+Sprint 1
+Tâches | Temps estimé | Temps effectif 
+--- | --- | ---
+
+RobApp : Connexion en bluetooth avec le robot | 1h | 3h
+RobApp : Système pour lancer un comportement dans un thread | 2h | 5h
+RobApp : Système pour arrêter un comportement dans un thread | 2h | 3h
+RobApp : Explorateur de fichier pour importer un comportement | 3h | 6h
+ RobApp : Importer un fichier de comportement dans l'application 
+(copie dans les dossiers internes de l'application) | 2h | 2h
+RobApp : Exécution dynamique du code sur Android  | 3h | 12h
+RobApp : Implémentation dans l'application de RobDev v0.1 | 2h | 2h
+RobDev : Implémentation de plusieurs de comportements (v0.1 / v0.2) | 3h | 3h 
+
+RobApp : Génération de QRCode  pour partager des vidéos | 3h | 3h
+RobApp : Ajoute du module de movement du robot
+RobApp : Ajout du module de shock du robot
+RobApp : Implémentation dans l'application de RobDev v0.2 | 2h | 4h
+RobApp : Articulation de l'application avec un Navigation Drawer (Menu) 
+RobApp : Design d'un logo pour l'application
 
 # Clément George
 Tâches | Temps estimé | Temps effectif
