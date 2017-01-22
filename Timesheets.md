@@ -8,7 +8,7 @@ RobHub : Page de details de chaque comportement  | 6h | 7h
 RobHub : Architecture de la base de données  | 1h | 1h
 Gestion :  Tâches Scrum Master ("Daily" Scrum, Sprint plannification, review, ...)  | 5h | 5h
 
-<hz>
+---
 # Arthur Joanny
 
 ## Sprint 1 
@@ -101,7 +101,7 @@ RobApp : Manuel Devellopeur | 12h | 12h
 RobApp : Améléioration de l'application (Netoyage du code, Commentaires,...) | 10h | 2h (En cours)||
 Total | 22h | 14h (En cours)
 
-<hz>
+---
 
 # Clément George
 Tâches | Temps estimé | Temps effectif
@@ -115,6 +115,7 @@ RobApp : Execution des comportements prenant en compte les événements | 1h | 4
 RobDev : Troisième version du framework (système de programmation évenementielle) | 2h | 2h
 Gestion de projet/communication | 5h | 5h
 
+---
 
 # Morvan Lassauzay
 Tâches | Temps estimé | Temps effectif
@@ -127,7 +128,7 @@ RobApp : Système permettant d'enchaîner plusieurs primitives de déplacement |
 RobApp : Comportement de test | 1h | 2h
 Absence Maladie : fin du Sprint 3 et Sprint 5 |  | 
 
-
+---
 
 # Nicolas Fedy
 Tâches | Temps estimé | Temps effectif
@@ -139,6 +140,7 @@ RobDex : Modification des options pour améliorer la modularité | 2h | 2h30
 RobDex : Ajout pseudo-compatibilité Java 8 | 2h | 2h30
 RobDex : Augmentation progressive de la sécurité | 3h | 3h 
 
+---
 
 # Victor Nea
 Tâches | Temps estimé | Temps effectif
@@ -152,6 +154,7 @@ RobHub : Architecture de la base de données | 1h | 30min
 RobHub : API Json qui listent les comportements (id, nom, url vers fichier .dex) | 45min | 1h30
 Gestion de projet/communication | 4h | 4h
 
+---
 
 # Vincent Trinquet	
 Tâches | Temps estimé | Temps effectif
