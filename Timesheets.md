@@ -19,9 +19,8 @@ RobApp : Connexion en bluetooth avec le robot | 2h | 3h
 RobApp : Système pour lancer un comportement dans un thread | 3h | 5h
 RobApp : Système pour arrêter un comportement dans un thread | 2h | 3h
 RobApp : Explorateur de fichier pour importer un comportement | 3h | 6h
-RobApp : Importer un fichier de comportement dans l'application (copie dans les dossiers internes de l'application) | 3h | 3h
-RobApp : Prise en main du module de mouvements | 1h | 3h
 RobApp : Étude code Robobo | 2h | 4h
+RobApp : Prise en main du module de mouvements | 1h | 3h
 RobApp : Ajoute du module de movements du robot | 3h | 4h
 RobApp : Implémentation dans l'application de RobDev v0.1 | 4h | 4h
 RobDev : Implémentation de plusieurs de comportements (v0.1 / v0.2) | 3h | 3h 
@@ -31,12 +30,75 @@ Total |  |
 ## Sprint 2 
 
 Tâches | Temps estimé | Temps effectif 
-RobApp : Génération de QRCode  pour partager des vidéos | 3h | 3h
-RobApp : Ajout du module de shock du robot
+--- | --- | ---
+RobApp : Correction système pour arrêter un comportement dans un thread | 3h | 3h
+RobApp : Refonte application. Nouveau design pour plus de simplicité | 5h | 7h
+RobApp : Design d'un logo pour l'application| 2h| 2h
+RobDev : Création de plusieurs comportements pour tester les mouvements | 2h | 2h
+RobApp : Tests des comportements utilisant les mouvemenet (problèmes de précision) | 4h | 4h. 
+RobHub : Proposition d'une premiere version de RobHub (Non retenue pas adapté) | 2h | 3h
+Autres : Discution avec l'équipe Robobo en raison des problèmes sur le framework Robobo | 1h | 1h
+Total |  | 
+
+
+## Sprint 3
+Tâches | Temps estimé | Temps effectif 
+--- | --- | ---
+RobApp : Debug application (Problème de avec les comportements lors des changement d'orientation du téléphone) | 2h | 5h
+RobApp : Exécution dynamique du code sur Android  | 4h | 12h
+RobApp : Réfléxion sur une approche évènementiel du framework (Annotation Java) | 3h | 3h
+RobApp : Importer un fichier de comportement dans l'application (copie dans les dossiers internes de l'application) | 3h | 3h
+Total |  | 
+
+## Sprint 4 
+Tâches | Temps estimé | Temps effectif 
+--- | --- | ---
+RobApp : Étude du module de shock du robot | 2h | 2h
+RobApp : Ajout du module de shock du robot | 2h | 2h
+RobAoo : Problème capteur arrière du robobo | 1h | 2h
 RobApp : Implémentation dans l'application de RobDev v0.2 | 2h | 4h
-RobApp : Articulation de l'application avec un Navigation Drawer (Menu) 
-RobApp : Design d'un logo pour l'application
-RobApp : Exécution dynamique du code sur Android  | 4h | 11h
+RobApp : Importer un fichier de comportement dans l'application (copie dans les dossiers internes de l'application) | 3h | 3h
+RobDev : Developpement de l'approche réactive du framework | 5h | 5h
+RobDev : Développer des comportement utilisant les shocks | 2h | 2h
+RobApp : Tester les comportements utilisant les shocks | 3h | 3h 
+Gestion :  Tâches Scrum Master ("Daily" Scrum, Sprint plannification, review, ...)  | 5h | 5h
+
+Total | |
+
+## Sprint 5
+Tâches | Temps estimé | Temps effectif 
+--- | --- | ---
+RobApp : Étude module capteur infrarouge | 3h | 3h
+RobApp : Ajout module capteur infrarouge | 2h | 3h
+RobApp : Étude module émotions | 1h | 1h
+RobApp : Ajout module emotion |  3h | 3h 
+RobApp : Étude module de parole | 1h | 1h
+RobApp : Ajout module parole | 1h | 1h
+RobApp : Developpement de l'approche réactive du framework | 3h | 12h
+RobDev : Création de comportements utilisant les modules | 2h | 2h 
+RobApp : Test des nouveaux comportements | 4h | 4h
+
+## Sprint 6 
+Tâches | Temps estimé | Temps effectif 
+--- | --- | ---
+RobApp : Amélioration et correction du module évènementiel | 10h | 20h
+RobApp : Debug du module émotion | 3h | 3h
+RobApp : Corrections bug application | 3h | 3h
+
+
+## Sprint 7 
+Tâches | Temps estimé | Temps effectif 
+--- | --- | ---
+RobApp : Amélioration et correction du module évènementiel | 2h | 12h
+RobApp : Correction de petit bug dans l'application | 2h | 2h
+RobApp : Téléchargement des comportementss depuis l'application | 5h | 3h 
+
+## Sprint 8 
+Tâches | Temps estimé | Temps effectif 
+--- | --- | ---
+RobApp : Manuel Devellopeur | 12h | 12h
+RobApp : Améléioration de l'application (Netoyage du code, Commentaires,...) | 10h | 2h (En cours)
+
 
 # Clément George
 Tâches | Temps estimé | Temps effectif
