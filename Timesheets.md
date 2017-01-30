@@ -24,7 +24,7 @@ RobApp : Prise en main du module de mouvements | 1h | 3h
 RobApp : Ajoute du module de mouvements du robot | 3h | 4h
 RobApp : Implémentation dans l'application de RobDev v0.1 | 3h | 3h
 RobDev : Implémentation de plusieurs comportements (v0.1 / v0.2) | 2h | 2h 
-Total | 20h | 24h
+Total | 19h | 24h
 
 
 ## Sprint 2 
@@ -48,7 +48,7 @@ RobApp : Debug application (Problème avec les comportements lors des changement
 RobApp : Exécution dynamique du code sur Android  | 4h | 12h
 RobApp : Réflexion sur une approche évènementielle du framework (Annotation Java) | 3h | 3h
 RobApp : Importer un fichier de comportement dans l'application (copie dans les dossiers internes de l'application) | 3h | 3h
-Total | 3h | 23h 
+Total | 12h | 23h 
 
 ## Sprint 4 
 Tâches | Temps estimé | Temps effectif 
@@ -84,7 +84,7 @@ Tâches | Temps estimé | Temps effectif
 RobApp : Amélioration et correction du module évènementiel | 10h | 20h
 RobApp : Debug du module émotion | 3h | 3h
 RobApp : Corrections bugs application | 3h | 3h
-Total | 16h | 23h
+Total | 16h | 26h
 
 ## Sprint 7 
 Tâches | Temps estimé | Temps effectif 
@@ -98,8 +98,8 @@ Total | 9h | 17h
 Tâches | Temps estimé | Temps effectif 
 --- | --- | ---
 RobApp : Manuel Devellopeur | 12h | 12h
-RobApp : Améléioration de l'application (Netoyage du code, Commentaires,...) | 10h | 2h (En cours)||
-Total | 22h | 14h (En cours)
+RobApp : Améléioration de l'application (Netoyage du code, Commentaires,...) | 10h | 8h (En cours)||
+Total | 22h | 20h (En cours)
 
 ---
 
