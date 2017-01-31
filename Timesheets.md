@@ -171,7 +171,7 @@ RobHub : Notation de comportements sur la page de détails d'un comportement | 4
 RobHub : Gallerie de vidéos en mode slide | 1h30 | 5h
 RobHub : Revoir le système de notation des comportements | 1h00 | 2h30
 RobHub : Ajout du QR code sur la page de détails d'un comportement | 30 min | 45 min
-RobHub : Traduire RobHub en anglais  | 45min | 1h30
+RobHub : Traduire RobHub en anglais  | 45 min | 1h30
 RobApp/RobHub : Revoir l'API Json pour rajouter des informations sur les comportements | 30 min | 2h00
 RobApp/RobHub/RobDex : Débugguer les trois composants pour voir pourquoi l'éxécution d'un comportement téléchargé sur RobHub depuis RobApp ne fonctionne pas | 6h | 9h00
 RobHub : Corriger erreur PHP/SQL quand le texte soumis par l'utilisateur dans un formulaire dépasse la taille maximale dans la base de données | 1h30 | 1H10
