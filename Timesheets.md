@@ -147,7 +147,9 @@ RobDex : Traitement d'erreurs de cas particuliers | 7h | 6h
 ---
 
 # Victor Nea
-Avant la mi-soutenance : 
+
+## Avant la mi-soutenance
+
 Tâches | Temps estimé | Temps effectif
 --- | --- | ---
 Mise en place de Slack et Trello | 30 min| 30 min
@@ -160,7 +162,7 @@ RobHub : API Json qui listent les comportements (id, nom, url vers fichier .dex)
 Gestion de projet/communication | 4h | 4h
 ---
 
-Après la mi-soutenance :
+## Après la mi-soutenance
 Tâches | Temps estimé | Temps effectif
 --- | --- | ---
 RobHub : Mettre en ligne une vidéo sur la page de détails d'un comportement | 2h30 | 5h30
