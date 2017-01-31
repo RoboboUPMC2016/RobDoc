@@ -149,7 +149,6 @@ RobDex : Traitement d'erreurs de cas particuliers | 7h | 6h
 # Victor Nea
 
 ## Avant la mi-soutenance
-
 Tâches | Temps estimé | Temps effectif
 --- | --- | ---
 Mise en place de Slack et Trello | 30 min| 30 min
@@ -180,6 +179,8 @@ RobHub : Rédaction du manuel de développeur | 6h00 | en cours de finalisation
 ---
 
 # Vincent Trinquet	
+
+## Avant la mi-soutenance
 Tâches | Temps estimé | Temps effectif
 --- | --- | ---
 Bibliographie | 10h |10h
@@ -187,3 +188,13 @@ RobHub : Upload de vidéos | 20h | 20h
 RobHub : Upload de vidéos côté client | 10h | 10h
 RobHub : Upload de vidéos côté serveur | 10h | 10h
 Méthode agile (framework Scrum), méthodologie | quelques heures | quelques heures
+---
+
+## Après la mi-soutenance
+Tâches | Temps estimé | Temps effectif
+--- | --- | ---
+Gestion de projet, Scrum, mise en place d’un questionnaire de gestion du temps… (sans compter la rédaction du rapport Scrum) | 8h | 10h/11h
+Rédaction du rapport Scrum | 5h | 8h
+Traitement des questionnaires de gestion du temps reçus | 3h | 3h
+Participation à la notation : mise en place de la fonctionnalité : Les utilisateurs peuvent envoyer leur note et côté Base de données, on calcule la moyenne des notes | 5h | 6h
+---
