@@ -158,6 +158,7 @@ RobHub-RobDex : Mise en ligne de comportements | 3h | 7h
 RobHub : Architecture de la base de données | 1h | 30 min
 RobHub : API Json qui listent les comportements (id, nom, url vers fichier .dex) | 45 min | 1h30
 Gestion de projet/communication | 4h | 4h
+---
 
 Après la mi-soutenance :
 Tâches | Temps estimé | Temps effectif
@@ -174,7 +175,6 @@ RobApp/RobHub/RobDex : Débugguer les trois composants pour voir pourquoi l'éx�
 RobHub : Corriger erreur PHP/SQL quand le texte soumis par l'utilisateur dans un formulaire dépasse la taille maximale dans la base de données | 1h30 | 1H10
 RobHub : PHPDoc du code source (comme la Javadoc) | 4h00 | 5h00
 RobHub : Rédaction du manuel de développeur | 6h00 | en cours de finalisation
-
 ---
 
 # Vincent Trinquet	
