@@ -135,10 +135,14 @@ Tâches | Temps estimé | Temps effectif
 --- | --- | ---
 RobDex : Création du serveur et tests locaux  | 4h | 5h
 RobDex : Ajout compatibilité Windows | 1h30 | 1h
-RobDex: Adaptation traitement pour gérer sockets php | 1h30 | 1h30 
+RobDex : Adaptation traitement pour gérer sockets php | 1h30 | 1h30 
 RobDex : Modification des options pour améliorer la modularité | 2h | 2h30 
 RobDex : Ajout pseudo-compatibilité Java 8 | 2h | 2h30
 RobDex : Augmentation progressive de la sécurité | 3h | 3h 
+RobDex : Ajout de gestion des classes internes lors de la compilation | 1h30 | 4h
+RobDex : Analyse d'un bug de communication entre java et PHP | 2h | 3h
+RobDex : Ajout incrémental de la modularité | 8h | 11h
+RobDex : Traitement d'erreurs de cas particuliers | 7h | 6h
 
 ---
 
