@@ -147,16 +147,33 @@ RobDex : Traitement d'erreurs de cas particuliers | 7h | 6h
 ---
 
 # Victor Nea
+Avant la mi-soutenance : 
 Tâches | Temps estimé | Temps effectif
 --- | --- | ---
-Mise en place de Slack et Trello | 30min| 30min
+Mise en place de Slack et Trello | 30 min| 30 min
 RobHub : Page d'accueil | 1h30 | 2h
 RobHub : Page d'authentification | 1h | 2h30
 RobHub : Page d'inscription | 2h30 | 3h
 RobHub-RobDex : Mise en ligne de comportements | 3h | 7h
-RobHub : Architecture de la base de données | 1h | 30min
-RobHub : API Json qui listent les comportements (id, nom, url vers fichier .dex) | 45min | 1h30
+RobHub : Architecture de la base de données | 1h | 30 min
+RobHub : API Json qui listent les comportements (id, nom, url vers fichier .dex) | 45 min | 1h30
 Gestion de projet/communication | 4h | 4h
+
+Après la mi-soutenance :
+Tâches | Temps estimé | Temps effectif
+--- | --- | ---
+RobHub : Mettre en ligne une vidéo sur la page de détails d'un comportement | 2h30 | 5h30
+RobHub : Afficher les vidéos mises en ligne sur la page de détails d'un comportement | 1h30 | 2h30
+RobHub : Notation de comportements sur la page de détails d'un comportement | 4h | 8h00
+RobHub : Gallerie de vidéos en mode slide | 1h30 | 5h
+RobHub : Revoir le système de notation des comportements | 1h00 | 2h30
+RobHub : Ajout du QR code sur la page de détails d'un comportement | 30 min | 45 min
+RobHub : Traduire RobHub en anglais  | 45min | 1h30
+RobApp/RobHub : Revoir l'API Json pour rajouter des informations sur les comportements | 30 min | 2h00
+RobApp/RobHub/RobDex : Débugguer les trois composants pour voir pourquoi l'éxécution d'un comportement téléchargé sur RobHub depuis RobApp ne fonctionne pas | 6h | 9h00
+RobHub : Corriger erreur PHP/SQL quand le texte soumis par l'utilisateur dans un formulaire dépasse la taille maximale dans la base de données | 1h30 | 1H10
+RobHub : PHPDoc du code source (comme la Javadoc) | 4h00 | 5h00
+RobHub : Rédaction du manuel de développeur | 6h00 | en cours de finalisation
 
 ---
 
