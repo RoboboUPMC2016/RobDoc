@@ -63,9 +63,18 @@ Victor Nea | victor.nea@gmail.com | 3 | 31/10/16 - 13/11/16
 
 **Note** : le membre en gras indique la personne qui tient actuellement le rôle du Scrum Master.
 
-# Manuels
+# Manuels de déveloopeur
+[RobApp](https://github.com/RoboboUPMC2016/RobApp/wiki)
+<br>
+[RobDev](https://github.com/RoboboUPMC2016/RobDev/wiki)
+<br>
+[RobHub](https://github.com/RoboboUPMC2016/RobHub/wiki)
 
- [Manuel du développeur : RobApp](https://github.com/RoboboUPMC2016/RobApp/wiki)
- <br>
- [Manuel d'utilisateur  : RobHub](https://github.com/RoboboUPMC2016/RobApp/wiki/User-guide-of-RobHub)
+# Manuels d'utilisateur
+[RobApp](https://github.com/RoboboUPMC2016/RobDoc/wiki/User-Guide-of-RobApp)
+<br>
+[RobDev](https://github.com/RoboboUPMC2016/RobDoc/wiki/User-Guide-of-RobDev)
+<br>
+[RobHub](https://github.com/RoboboUPMC2016/RobDoc/wiki/User-Guide-of-RobHub)
+
  
