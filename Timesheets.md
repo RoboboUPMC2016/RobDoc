@@ -175,7 +175,7 @@ RobApp/RobHub : Revoir l'API Json pour rajouter des informations sur les comport
 RobApp/RobHub/RobDex : Débugguer les trois composants pour voir pourquoi l'éxécution d'un comportement téléchargé sur RobHub depuis RobApp ne fonctionne pas | 6h | 9h00
 RobHub : Corriger erreur PHP/SQL quand le texte soumis par l'utilisateur dans un formulaire dépasse la taille maximale dans la base de données | 1h30 | 1H10
 RobHub : PHPDoc du code source (comme la Javadoc) | 4h00 | 5h00
-RobHub : Rédaction du manuel de développeur | 6h00 | en cours de finalisation
+RobHub : Rédaction du manuel de développeur | 6h00 | 5h40
 ---
 
 # Vincent Trinquet	
